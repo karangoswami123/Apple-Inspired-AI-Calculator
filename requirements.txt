@@ -6,3 +6,7 @@ streamlit
 streamlit-extras
 numpy
 streamlit_drawable_canvas
+
+SpeechRecognition
+gtts
+
